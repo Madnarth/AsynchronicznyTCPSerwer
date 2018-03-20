@@ -1,0 +1,8 @@
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\bin\Debug\AsynchronicznyTCPSerwer.exe.config
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\bin\Debug\AsynchronicznyTCPSerwer.exe
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\bin\Debug\AsynchronicznyTCPSerwer.pdb
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\obj\Debug\AsynchronicznyTCPSerwer.Form1.resources
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\obj\Debug\AsynchronicznyTCPSerwer.Properties.Resources.resources
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\obj\Debug\AsynchronicznyTCPSerwer.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\obj\Debug\AsynchronicznyTCPSerwer.exe
+E:\Dokumenty\GitHub\AsynchronicznyTCPSerwer\AsynchronicznyTCPSerwer\obj\Debug\AsynchronicznyTCPSerwer.pdb
